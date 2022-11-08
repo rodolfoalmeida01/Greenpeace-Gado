@@ -1,0 +1,269 @@
+Formal name,Name,2-letter ISO code,3-letter ISO code,2-letter World Bank code,3-letter World Bank code,WB_REGION
+Republic of Indonesia,Indonesia,ID,IDN,ID,IDN,EAP
+Malaysia,Malaysia,MY,MYS,MY,MYS,EAP
+Republic of Chile,Chile,CL,CHL,CL,CHL,LCR
+Plurinational State of Bolivia,Bolivia,BO,BOL,BO,BOL,LCR
+Republic of Peru,Peru,PE,PER,PE,PER,LCR
+Argentine Republic,Argentina,AR,ARG,AR,ARG,LCR
+Republic of Cyprus,Cyprus,CY,CYP,CY,CYP,ECA
+Republic of India,India,IN,IND,IN,IND,SOA
+People's Republic of China,People's Republic of China,CN,CHN,CN,CHN,EAP
+State of Israel,Israel,IL,ISR,IL,ISR,Other
+West Bank and Gaza,Palestine,PS,PSE,GZ,PSE,MENA
+Lebanese Republic,Lebanon,LB,LBN,LB,LBN,MENA
+Federal Democratic Republic of Ethiopia,Ethiopia,ET,ETH,ET,ETH,AFR
+Republic of South Sudan,South Sudan,SS,SSD,SS,SSD,AFR
+Federal Republic of Somalia,Somalia,SO,SOM,SO,SOM,AFR
+Republic of Kenya,Kenya,KE,KEN,KE,KEN,AFR
+Islamic Republic of Pakistan,Pakistan,PK,PAK,PK,PAK,SOA
+Republic of Malawi,Malawi,MW,MWI,MW,MWI,AFR
+United Republic of Tanzania,Tanzania,TZ,TZA,TZ,TZA,AFR
+Syrian Arab Republic,Syria,SY,SYR,SY,SYR,MENA
+French Republic,France,FR,FRA,FR,FRA,Other
+Republic of Suriname,Suriname,SR,SUR,SR,SUR,LCR
+Co-operative Republic of Guyana,Guyana,GY,GUY,GY,GUY,LCR
+Republic of Korea,South Korea,KR,KOR,KR,KOR,EAP
+Democratic People's Republic of Korea,North Korea,KP,PRK,KP,PRK,Other
+Kingdom of Morocco,Morocco,MA,MAR,MA,MAR,MENA
+Republic of Costa Rica,Costa Rica,CR,CRI,CR,CRI,LCR
+Republic of Nicaragua,Nicaragua,NI,NIC,NI,NIC,LCR
+Republic of the Congo,Republic of the Congo,CG,COG,CG,COG,AFR
+Democratic Republic of the Congo,Democratic Republic of the Congo,CD,COD,ZR,ZAR,AFR
+Kingdom of Bhutan,Bhutan,BT,BTN,BT,BTN,SOA
+Ukraine,Ukraine,UA,UKR,UA,UKR,ECA
+Republic of Belarus,Belarus,BY,BLR,BY,BLR,ECA
+Republic of Namibia,Namibia,NA,NAM,NA,NAM,AFR
+Republic of South Africa,South Africa,ZA,ZAF,ZA,ZAF,AFR
+Saint-Martin (French part),Saint Martin,MF,MAF,MF,MAF,Other
+Sint Maarten (Dutch part),Sint Maarten,SX,SXM,SX,SXM,Other
+Sultanate of Oman,Oman,OM,OMN,OM,OMN,MENA
+Republic of Uzbekistan,Uzbekistan,UZ,UZB,UZ,UZB,ECA
+Republic of Kazakhstan,Kazakhstan,KZ,KAZ,KZ,KAZ,ECA
+Republic of Tajikistan,Tajikistan,TJ,TJK,TJ,TJK,ECA
+Republic of Lithuania,Lithuania,LT,LTU,LT,LTU,ECA
+Federative Republic of Brazil,Brazil,BR,BRA,BR,BRA,LCR
+Oriental Republic of Uruguay,Uruguay,UY,URY,UY,URY,LCR
+Mongolia,Mongolia,MN,MNG,MN,MNG,EAP
+Russian Federation,Russia,RU,RUS,RU,RUS,ECA
+Czech Republic,Czech Republic,CZ,CZE,CZ,CZE,ECA
+Federal Republic of Germany,Germany,DE,DEU,DE,DEU,Other
+Republic of Estonia,Estonia,EE,EST,EE,EST,ECA
+Republic of Latvia,Latvia,LV,LVA,LV,LVA,ECA
+Kingdom of Norway,Norway,NO,NOR,NO,NOR,Other
+Kingdom of Sweden,Sweden,SE,SWE,SE,SWE,Other
+Republic of Finland,Finland,FI,FIN,FI,FIN,Other
+Socialist Republic of Vietnam,Vietnam,VN,VNM,VN,VNM,EAP
+Kingdom of Cambodia,Cambodia,KH,KHM,KH,KHM,EAP
+Grand Duchy of Luxembourg,Luxembourg,LU,LUX,LU,LUX,Other
+United Arab Emirates,United Arab Emirates,AE,ARE,AE,ARE,MENA
+Kingdom of Belgium,Belgium,BE,BEL,BE,BEL,Other
+Georgia,Georgia,GE,GEO,GE,GEO,ECA
+Former Yugoslav Republic of Macedonia,Republic of Macedonia,MK,MKD,MK,MKD,ECA
+Republic of Albania,Albania,AL,ALB,AL,ALB,ECA
+Republic of Azerbaijan,Azerbaijan,AZ,AZE,AZ,AZE,ECA
+Republic of Kosovo,Kosovo,XK,,KV,KSV,ECA
+Republic of Turkey,Turkey,TR,TUR,TR,TUR,ECA
+Kingdom of Spain,Spain,ES,ESP,ES,ESP,Other
+Lao People's Democratic Republic,Laos,LA,LAO,LA,LAO,EAP
+Kyrgyz Republic,Kyrgyzstan,KG,KGZ,KG,KGZ,ECA
+Republic of Armenia,Armenia,AM,ARM,AM,ARM,ECA
+Kingdom of Denmark,Denmark,DK,DNK,DK,DNK,Other
+Libya,Libya,LY,LBY,LY,LBY,MENA
+Republic of Tunisia,Tunisia,TN,TUN,TN,TUN,MENA
+Romania,Romania,RO,ROU,RO,ROM,ECA
+Republic of Hungary,Hungary,HU,HUN,HU,HUN,ECA
+Slovak Republic,Slovakia,SK,SVK,SK,SVK,ECA
+Republic of Poland,Poland,PL,POL,PL,POL,ECA
+Ireland,Ireland,IE,IRL,IE,IRL,Other
+United Kingdom of Great Britain and Northern Ireland,United Kingdom,GB,GBR,GB,GBR,Other
+Hellenic Republic,Greece,GR,GRC,GR,GRC,Other
+Republic of Zambia,Zambia,ZM,ZMB,ZM,ZMB,AFR
+Republic of Sierra Leone,Sierra Leone,SL,SLE,SL,SLE,AFR
+Republic of Guinea,Guinea,GN,GIN,GN,GIN,AFR
+Republic of Liberia,Liberia,LR,LBR,LR,LBR,AFR
+Central African Republic,Central African Republic,CF,CAF,CF,CAF,AFR
+Republic of the Sudan,Sudan,SD,SDN,SD,SDN,AFR
+Republic of Djibouti,Djibouti,DJ,DJI,DJ,DJI,MENA
+State of Eritrea,Eritrea,ER,ERI,ER,ERI,AFR
+Republic of Austria,Austria,AT,AUT,AT,AUT,Other
+Republic of Iraq,Iraq,IQ,IRQ,IQ,IRQ,MENA
+Italian Republic,Italy,IT,ITA,IT,ITA,Other
+Swiss Confederation,Switzerland,CH,CHE,CH,CHE,Other
+Islamic Republic of Iran,Iran,IR,IRN,IR,IRN,MENA
+Principality of Liechtenstein,Liechtenstein,LI,LIE,LI,LIE,Other
+Republic of Ivory Coast,Ivory Coast,CI,CIV,CI,CIV,AFR
+Republic of Serbia,Serbia,RS,SRB,YF,SRB,ECA
+Republic of Mali,Mali,ML,MLI,ML,MLI,AFR
+Republic of Senegal,Senegal,SN,SEN,SN,SEN,AFR
+Federal Republic of Nigeria,Nigeria,NG,NGA,NG,NGA,AFR
+Republic of Benin,Benin,BJ,BEN,BJ,BEN,AFR
+People's Republic of Angola,Angola,AO,AGO,AO,AGO,AFR
+Republic of Croatia,Croatia,HR,HRV,HR,HRV,ECA
+Republic of Slovenia,Slovenia,SI,SVN,SI,SVN,ECA
+State of Qatar,Qatar,QA,QAT,QA,QAT,MENA
+Kingdom of Saudi Arabia,Saudi Arabia,SA,SAU,SA,SAU,MENA
+Republic of Botswana,Botswana,BW,BWA,BW,BWA,AFR
+Republic of Zimbabwe,Zimbabwe,ZW,ZWE,ZW,ZWE,AFR
+Republic of Bulgaria,Bulgaria,BG,BGR,BG,BGR,ECA
+Kingdom of Thailand,Thailand,TH,THA,TH,THA,EAP
+Republic of San Marino,San Marino,SM,SMR,SM,SMR,Other
+Republic of Haiti,Haiti,HT,HTI,HT,HTI,LCR
+Dominican Republic,Dominican Republic,DO,DOM,DO,DOM,LCR
+Republic of Chad,Chad,TD,TCD,TD,TCD,AFR
+State of Kuwait,Kuwait,KW,KWT,KW,KWT,MENA
+Republic of El Salvador,El Salvador,SV,SLV,SV,SLV,LCR
+Republic of Guatemala,Guatemala,GT,GTM,GT,GTM,LCR
+Democratic Republic of Timor-Leste,East Timor,TL,TLS,TP,TMP,EAP
+Negara Brunei Darussalam,Brunei,BN,BRN,BN,BRN,Other
+Principality of Monaco,Monaco,MC,MCO,MC,MCO,Other
+People's Democratic Republic of Algeria,Algeria,DZ,DZA,DZ,DZA,MENA
+Republic of Mozambique,Mozambique,MZ,MOZ,MZ,MOZ,AFR
+Kingdom of eSwatini,eSwatini,SZ,SWZ,SZ,SWZ,AFR
+Republic of Burundi,Burundi,BI,BDI,BI,BDI,AFR
+Republic of Rwanda,Rwanda,RW,RWA,RW,RWA,AFR
+Republic of the Union of Myanmar,Myanmar,MM,MMR,MM,MMR,EAP
+People's Republic of Bangladesh,Bangladesh,BD,BGD,BD,BGD,SOA
+Principality of Andorra,Andorra,AD,AND,AD,ADO,Other
+Islamic State of Afghanistan,Afghanistan,AF,AFG,AF,AFG,SOA
+Montenegro,Montenegro,ME,MNE,ME,MNE,ECA
+Bosnia and Herzegovina,Bosnia and Herzegovina,BA,BIH,BA,BIH,ECA
+Republic of Uganda,Uganda,UG,UGA,UG,UGA,AFR
+,Guantanamo Bay Naval Base,,,,USA,Other
+Republic of Cuba,Cuba,CU,CUB,CU,CUB,Other
+Republic of Honduras,Honduras,HN,HND,HN,HND,LCR
+Republic of Ecuador,Ecuador,EC,ECU,EC,ECU,LCR
+Republic of Colombia,Colombia,CO,COL,CO,COL,LCR
+Republic of Paraguay,Paraguay,PY,PRY,PY,PRY,LCR
+Portuguese Republic,Portugal,PT,PRT,PT,PRT,Other
+Republic of Moldova,Moldova,MD,MDA,MD,MDA,ECA
+Turkmenistan,Turkmenistan,TM,TKM,TM,TKM,ECA
+Hashemite Kingdom of Jordan,Jordan,JO,JOR,JO,JOR,MENA
+Nepal,Nepal,NP,NPL,NP,NPL,SOA
+Kingdom of Lesotho,Lesotho,LS,LSO,LS,LSO,AFR
+Republic of Cameroon,Cameroon,CM,CMR,CM,CMR,AFR
+Gabonese Republic,Gabon,GA,GAB,GA,GAB,AFR
+Republic of Niger,Niger,NE,NER,NE,NER,AFR
+Burkina Faso,Burkina Faso,BF,BFA,BF,BFA,AFR
+Togolese Republic,Togo,TG,TGO,TG,TGO,AFR
+Republic of Ghana,Ghana,GH,GHA,GH,GHA,AFR
+Republic of Guinea-Bissau,Guinea-Bissau,GW,GNB,GW,GNB,AFR
+,Gibraltar,GI,GIB,,GIB,Other
+United States of America,United States of America,US,USA,US,USA,Other
+Canada,Canada,CA,CAN,CA,CAN,Other
+United Mexican States,Mexico,MX,MEX,MX,MEX,LCR
+Belize,Belize,BZ,BLZ,BZ,BLZ,LCR
+Republic of Panama,Panama,PA,PAN,PA,PAN,LCR
+Bolivarian Republic of Venezuela,Venezuela,VE,VEN,VE,VEN,LCR
+Independent State of Papua New Guinea,Papua New Guinea,PG,PNG,PG,PNG,EAP
+Arab Republic of Egypt,Egypt,EG,EGY,EG,EGY,MENA
+Republic of Yemen,Yemen,YE,YEM,RY,YEM,MENA
+Islamic Republic of Mauritania,Mauritania,MR,MRT,MR,MRT,AFR
+Republic of Equatorial Guinea,Equatorial Guinea,GQ,GNQ,GQ,GNQ,AFR
+Republic of the Gambia,The Gambia,GM,GMB,GM,GMB,AFR
+"Hong Kong Special Administrative Region, PRC",Hong Kong,HK,HKG,HK,HKG,EAP
+State of the Vatican City,Vatican City,VA,VAT,,VAT,Other
+Commonwealth of Australia,Australia,AU,AUS,AU,AUS,Other
+Greenland,Greenland,GL,GRL,GL,GRL,Other
+Republic of Fiji,Fiji,FJ,FJI,FJ,FJI,EAP
+New Caledonia,New Caledonia,NC,NCL,NC,NCL,Other
+Republic of Madagascar,Madagascar,MG,MDG,MG,MDG,AFR
+Republic of the Philippines,Philippines,PH,PHL,PH,PHL,EAP
+Democratic Socialist Republic of Sri Lanka,Sri Lanka,LK,LKA,LK,LKA,SOA
+Curaçao,Curaçao,CW,CUW,CW,CUW,Other
+Aruba,Aruba,AW,ABW,AW,ABW,Other
+Commonwealth of the Bahamas,The Bahamas,BS,BHS,BS,BHS,LCR
+Turks and Caicos Islands,Turks and Caicos Islands,TC,TCA,TC,TCA,Other
+Japan,Japan,JP,JPN,JP,JPN,Other
+Saint Pierre and Miquelon,Saint Pierre and Miquelon,PM,SPM,,SPM,Other
+Republic of Iceland,Iceland,IS,ISL,IS,ISL,Other
+"Pitcairn, Henderson, Ducie and Oeno Islands",Pitcairn Islands,PN,PCN,,PCN,Other
+French Polynesia,French Polynesia,PF,PYF,PF,PYF,Other
+Territory of the French Southern and Antarctic Lands,French Southern and Antarctic Lands,TF,ATF,,ATF,Other
+Republic of Seychelles,Seychelles,SC,SYC,SC,SYC,AFR
+Republic of Kiribati,Kiribati,KI,KIR,KI,KIR,EAP
+Republic of the Marshall Islands,Marshall Islands,MH,MHL,MH,MHL,EAP
+Republic of Trinidad and Tobago,Trinidad and Tobago,TT,TTO,TT,TTO,LCR
+Grenada,Grenada,GD,GRD,GD,GRD,LCR
+Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,VC,VCT,VC,VCT,LCR
+Barbados,Barbados,BB,BRB,BB,BRB,LCR
+Saint Lucia,Saint Lucia,LC,LCA,LC,LCA,LCR
+Commonwealth of Dominica,Dominica,DM,DMA,DM,DMA,LCR
+,Montserrat,MS,MSR,,MSR,Other
+Antigua and Barbuda,Antigua and Barbuda,AG,ATG,AG,ATG,LCR
+Federation of Saint Kitts and Nevis,Saint Kitts and Nevis,KN,KNA,KN,KNA,LCR
+Virgin Islands of the United States,United States Virgin Islands,VI,VIR,VI,VIR,Other
+Saint-Barthélemy,Saint-Barthélemy,BL,BLM,,BLM,Other
+Commonwealth of Puerto Rico,Puerto Rico,PR,PRI,PR,PRI,Other
+,Anguilla,AI,AIA,,AIA,Other
+British Virgin Islands,British Virgin Islands,VG,VGB,,VGB,Other
+Jamaica,Jamaica,JM,JAM,JM,JAM,LCR
+Cayman Islands,Cayman Islands,KY,CYM,KY,CYM,Other
+The Bermudas or Somers Isles,Bermuda,BM,BMU,BM,BMU,Other
+Territory of Heard Island and McDonald Islands,Heard Island and McDonald Islands,HM,HMD,,HMD,Other
+,Saint Helena,SH,SHN,,SHN,Other
+Republic of Mauritius,Mauritius,MU,MUS,MU,MUS,AFR
+Union of the Comoros,Comoros,KM,COM,KM,COM,AFR
+Democratic Republic of São Tomé and Principe,São Tomé and Príncipe,ST,STP,ST,STP,AFR
+Republic of Cabo Verde,Cape Verde,CV,CPV,CV,CPV,AFR
+Republic of Malta,Malta,MT,MLT,MT,MLT,MENA
+Bailiwick of Jersey,Jersey,JE,JEY,,JEY,Other
+Bailiwick of Guernsey,Guernsey,GG,GGY,,GGY,Other
+,Isle of Man,IM,IMN,IM,IMY,Other
+Føroyar Is. (Faeroe Is.),Faroe Islands,FO,FRO,FO,FRO,Other
+,British Indian Ocean Territory,IO,IOT,,IOT,Other
+Republic of Singapore,Singapore,SG,SGP,SG,SGP,Other
+Territory of Norfolk Island,Norfolk Island,NF,NFK,,NFK,Other
+,Cook Islands,CK,COK,,COK,Other
+Kingdom of Tonga,Tonga,TO,TON,TO,TON,EAP
+Wallis and Futuna Islands,Wallis and Futuna,WF,WLF,,WLF,Other
+Independent State of Samoa,Samoa,WS,WSM,WS,WSM,EAP
+,Solomon Islands,SB,SLB,SB,SLB,EAP
+Tuvalu,Tuvalu,TV,TUV,TV,TUV,EAP
+Republic of Maldives,Maldives,MV,MDV,MV,MDV,SOA
+Republic of Nauru,Nauru,NR,NRU,,NRU,Other
+Federated States of Micronesia,Federated States of Micronesia,FM,FSM,FM,FSM,EAP
+South Georgia and the Islands,South Georgia and the South Sandwich Islands,GS,SGS,,SGS,Other
+Falkland Islands,Falkland Islands,FK,FLK,,FLK,Other
+Republic of Vanuatu,Vanuatu,VU,VUT,VU,VUT,EAP
+,Niue,NU,NIU,,NIU,Other
+American Samoa,American Samoa,AS,ASM,AS,ASM,Other
+Republic of Palau,Palau,PW,PLW,PW,PLW,EAP
+Territory of Guam,Guam,GU,GUM,GU,GUM,Other
+Commonwealth of the Northern Mariana Islands,Northern Mariana Islands,MP,MNP,MP,MNP,Other
+Kingdom of Bahrain,Bahrain,BH,BHR,BH,BHR,MENA
+,Clipperton Island,,,,FRA,Other
+"Macao Special Administrative Region, PRC",Macau,MO,MAC,MO,MAC,EAP
+Kingdom of the Netherlands,Netherlands,NL,NLD,,BES,Other
+Kingdom of the Netherlands,Netherlands,NL,NLD,,BES,Other
+Kingdom of the Netherlands,Netherlands,NL,NLD,,BES,Other
+Kingdom of the Netherlands,Netherlands,NL,NLD,NL,NLD,Other
+,Australian Indian Ocean Territories,,,,CCK,Other
+,Australian Indian Ocean Territories,,,,CXR,Other
+,United States Minor Outlying Islands,UM,UMI,,UMI,Other
+,United States Minor Outlying Islands,UM,UMI,,UMI,Other
+,United States Minor Outlying Islands,UM,UMI,,UMI,Other
+,United States Minor Outlying Islands,UM,UMI,,UMI,Other
+,United States Minor Outlying Islands,UM,UMI,,UMI,Other
+,United States Minor Outlying Islands,UM,UMI,,UMI,Other
+,United States Minor Outlying Islands,UM,UMI,,USA,Other
+,United States Minor Outlying Islands,UM,UMI,,UMI,Other
+,United States Minor Outlying Islands,UM,UMI,,UMI,Other
+New Zealand,New Zealand,NZ,NZL,,TKL,Other
+New Zealand,New Zealand,NZ,NZL,NZ,NZL,Other
+,Aksai Chin,,,,,Other
+,Arunachal Pradesh,,,,,Other
+Sahrawi Arab Democratic Republic,Western Sahara,EH,ESH,,ESH,Other
+,Abyei,,,,,AFR
+Cyprus No Mans Land,United Nations Buffer Zone in Cyprus,,,,,Other
+Abyei Disputed Boundary,Abyei Disputed Boundary,,,,,AFR
+Abyei Disputed Boundary,Abyei Disputed Boundary,,,,,AFR
+Abyei Disputed Boundary,Abyei Disputed Boundary,,,,,AFR
+Western Sahara - Morocco Disputed Boundary,Western Sahara - Morocco Disputed Boundary,,,,,Other
+Demchok-Jammu & Kashmir Disputed Boundary,Demchok-Jammu & Kashmir Disputed Boundary,,,,,Other
+Demchok-Jammu & Kashmir Disputed Boundary,Demchok-Jammu & Kashmir Disputed Boundary,,,,,Other
+Arunachal Pradesh Disputed Boundary,Arunachal Pradesh Disputed Boundary,,,,,Other
+Arunachal Pradesh Disputed Boundary,Arunachal Pradesh Disputed Boundary,,,,,Other
+Aksai Chin Disputed Boundary,Aksai Chin Disputed Boundary,,,,,Other
+India-Pakistan Line of Control,India-Pakistan Line of Control,,,,,Other
+Aksai Chin Disputed Boundary,Aksai Chin Disputed Boundary,,,,,Other
+North Korea-South Korea Disputed Boundary,North Korea-South Korea Disputed Boundary,,,,,Other
